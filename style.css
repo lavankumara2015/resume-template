@@ -128,7 +128,7 @@ ol li{
 }
 .html:hover .bar1 {
     background-color: blueviolet;
-    width: 109px;
+    width: 228px;
     border-radius : 15px;
 }
 
@@ -145,7 +145,7 @@ ol li{
 }
 .css:hover .bar2 {
     background-color: blueviolet;
-    width: 95px;
+    width: 205px;
     border-radius : 15px;
 }
 
@@ -162,7 +162,7 @@ ol li{
 }
 .js:hover .bar3{
     background-color: blueviolet;
-    width: 80px;
+    width: 180px;
     border-radius : 15px;
 }
 .hun{
